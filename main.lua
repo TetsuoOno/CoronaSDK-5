@@ -20,3 +20,4 @@ local function onTouch( event )
 end
 
 Runtime:addEventListener( "touch", onTouch )
+
